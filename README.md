@@ -5,8 +5,6 @@
 -->
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=hazel.wolf)
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ... Augmeneted Reality
 - 🌱 I’m currently learning ... Assembly
 - 👯 I’m looking to collaborate on ... Augmented Reality
