@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... [linkedin](https://www.linkedin.com/in/bhomit-bhandari-91711472/)
 - 😄 Pronouns: ... him/his
 - ⚡ Fun fact: ... Automobile Engineer by degree
+
+![Bhomit's github stats](https://github-readme-stats.vercel.app/api?username=hazelWolf&show_icons=true&hide_border=true)
