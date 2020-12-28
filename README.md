@@ -5,7 +5,7 @@
 -->
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=hazel.wolf)
 
-- 🔭 I’m currently working on ... Augmeneted Reality
+- 🔭 I’m currently working on ... Augmented Reality
 - 🌱 I’m currently learning ... Assembly
 - 👯 I’m looking to collaborate on ... Augmented Reality
 - 🤔 I’m looking for help with ... Open Source projects
